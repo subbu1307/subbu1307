@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey there, I'm Subbaiah Veeramani! 🚀  
 
 💡 **Senior Data Engineer** | **Cloud & Big Data Enthusiast** | **AI for Business Decisions**  
