@@ -19,10 +19,11 @@
 
 ## 📫 Connect With Me  
 🔗 [GitHub](https://github.com/subbu1307)  
-🔗 [LinkedIn](https://www.linkedin.com/in/subbaiahveeramani)  
-🔗 [Portfolio](your-portfolio-link-here)  
+🔗 [LinkedIn](https://www.linkedin.com/in/subbaiahveeramani)    
 
-⭐ **Fun Fact:** I ranked **3rd out of 111 teams** on Kaggle’s **NCAA Bracket Prediction Challenge!** 🏆  
+⭐ **Fun Fact:** I ranked **3rd out of 111 teams** on Kaggle’s **NCAA Bracket Prediction Challenge!** 🏆.
+
+Have a look at our work: 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/subbaiah.veeramani/viz/CCACDashboard-TeamDataCurry/1_EDAKPIs)   
 <!--
 **subbu1307/subbu1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
