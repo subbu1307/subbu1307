@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Subbaiah Veeramani! 
+# 👋 Hi, I'm Subbaiah Veeramani
 
 Welcome to my GitHub!
 
@@ -8,9 +8,9 @@ I'm a data-driven professional with 5+ years of experience as a Senior Data Engi
 
 ## 🔍 What I Do
 
-🔹 **Data Engineering** – Architected ETL pipelines and enterprise data warehouses using Snowflake, AWS, and PySpark to enable high-performance analytics across 20M+ records.  
-🔹 **Analytics & BI** – Delivered 30%+ improvements in KPIs through predictive modeling, SQL reporting, and self-service dashboards in Tableau, Power BI, and Looker.  
-🔹 **Business Strategy Support** – Partnered with cross-functional stakeholders to optimize pricing, compliance, and customer experience, driving cost savings up to 15%.
+🔹 **Data Engineering** – Architected ETL pipelines and enterprise data warehouses using Snowflake, AWS, and PySpark to enable high-performance analytics across **20M+** records.  
+🔹 **Analytics & BI** – Delivered **30%+** improvements in KPIs through predictive modeling, SQL reporting, and self-service dashboards in Tableau, Power BI, and Looker.  
+🔹 **Business Strategy Support** – Partnered with cross-functional stakeholders to optimize pricing, compliance, and customer experience, driving cost savings up to **15%.**
 
 I bring a hybrid skillset that bridges engineering, analytics, and business decision-making.
 
@@ -18,10 +18,10 @@ I bring a hybrid skillset that bridges engineering, analytics, and business deci
 
 ## 🚀 Featured Projects
 
-- **🏢 Data Warehouse for AgReliant**: Built a scalable Snowflake architecture to unify sales, inventory, and customer data, reducing query latency by 50%.  
-- **📊 Pricing Analytics for Insurance**: Built regression models to analyze premium elasticity, driving 10% higher adoption and reducing leakage.  
+- **🏢 Data Warehouse for AgReliant**: Built a scalable Snowflake architecture to unify sales, inventory, and customer data, reducing query latency by **50%.**  
+- **📊 Pricing Analytics for Insurance**: Built regression models to analyze premium elasticity, driving **10%** higher adoption and reducing leakage.  
 - **📈 NCAA Bracket Prediction**: Ranked 3rd out of 111 on Kaggle using XGBoost and Random Forest to model fan behavior.  
-- **🧠 HR Attrition Forecasting**: Designed PySpark pipelines and predictive models in Databricks to achieve 89% accuracy in identifying churn risk.
+- **🧠 HR Attrition Forecasting**: Designed PySpark pipelines and predictive models in Databricks to achieve **89%** accuracy in identifying churn risk.
 
 > Browse my pinned repositories below or visit individual project folders for full code, notebooks, and write-ups.
 
