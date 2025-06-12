@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm a data-driven professional with 5+ years of experience as a Senior Data Engineer and currently pursuing a Master’s in Business Analytics at Purdue University (graduating August 2025). I specialize in designing scalable data pipelines, building intuitive dashboards, and delivering actionable insights that drive strategic decisions across healthcare, insurance, agriculture, and tech.
+I'm a data-driven professional with **5+** years of experience as a Senior Data Engineer and currently pursuing a Master’s in Business Analytics at Purdue University (graduating August 2025). I specialize in designing scalable data pipelines, building intuitive dashboards, and delivering actionable insights that drive strategic decisions across healthcare, insurance, agriculture, and tech.
 
 ---
 
@@ -23,13 +23,11 @@ I bring a hybrid skillset that bridges engineering, analytics, and business deci
 - **📈 NCAA Bracket Prediction**: Ranked 3rd out of 111 on Kaggle using XGBoost and Random Forest to model fan behavior.  
 - **🧠 HR Attrition Forecasting**: Designed PySpark pipelines and predictive models in Databricks to achieve **89%** accuracy in identifying churn risk.
 
-> Browse my pinned repositories below or visit individual project folders for full code, notebooks, and write-ups.
-
 ---
 
 ## 🧰 Skills & Tools
 
-**Languages**: Python, SQL 
+**Languages**: Python, SQL  
 **Data Engineering**: Snowflake, BigQuery, Postgres, Spark, PySpark, Airflow, AWS Glue  
 **BI & Visualization**: Tableau, Power BI, Looker  
 **Cloud Platforms**: AWS, GCP  
@@ -55,17 +53,17 @@ I bring a hybrid skillset that bridges engineering, analytics, and business deci
 
 📫 [Email](mailto:veeraman@purdue.edu)  
 🔗 [LinkedIn](https://www.linkedin.com/in/subbaiahveeramani)  
-📄 [Resume (multi-role)](link-to-your-master-resume-or-Notion)
+
 
 Looking to collaborate, consult, or hire? I'm actively exploring **Data Engineer**, **Data Analyst**, and **Business Analyst** roles where I can turn complex data into business value.
 
-
-Have a look at our work: 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/subbaiah.veeramani/viz/CCACDashboard-TeamDataCurry/1_EDAKPIs)   
+Have a look at my work: 🔗 [NCAA Division 1 Basketball | User Affinity | Tableau Dashboard](https://public.tableau.com/app/profile/subbaiah.veeramani/viz/CCACDashboard-TeamDataCurry/1_EDAKPIs)   
 <!--
+> Browse my pinned repositories below or visit individual project folders for full code, notebooks, and write-ups.
 **subbu1307/subbu1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+📄 [Resume (multi-role)](link-to-your-master-resume-or-Notion)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
